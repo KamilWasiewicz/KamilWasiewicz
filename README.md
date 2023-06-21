@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilwasiewicz&label=Profile%20views&color=0e75b6&style=flat" alt="kamilwasiewicz" /> </p>
 
-- 🔭 I’m currently working on [Movie Store](https://github.com/KamilWasiewicz/movie-store)
-
 - 🌱 I’m currently learning **Spring boot 3**
 
 - 📫 How to reach me **wasiewicz.kamil@protonmail.com**
